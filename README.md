@@ -1,4 +1,4 @@
-[![MasterHead][https://github.com/denizguvel/denizguvel/blob/main/img/git_banner.png](https://github.com/denizguvel/denizguvel/blob/main/img/git_banner.png?raw=true)
+![MasterHead](https://github.com/denizguvel/denizguvel/blob/main/img/git_banner.png)
 
 <h1 align="center">Hi 👋, I'm Deniz Güvel</h1>
 <h3 align="center">A passionate software developer from Türkiye</h3>
