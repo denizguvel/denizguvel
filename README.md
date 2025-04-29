@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Hi,+I'm+Deniz+Güvel.;Flutter+Developer+%7C+Clean+Architecture+Lover.;Welcome+to+my+GitHub!" alt="Typing SVG" />
+    <a href="https://github.com/denizguvel">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Hi+I'm+Deniz+G%C3%BCvel;Software+Developer+%7C+;Welcome+to+my+GitHub!&color=F7C2E0&center=true" alt="Typing SVG" />
+    </a>
 </p>
 
 ---
