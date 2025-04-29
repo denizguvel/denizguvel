@@ -1,7 +1,7 @@
 <!-- Profil Başlık Animasyonu -->
 <p align="center">
   <a href="https://github.com/denizguvel">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Hi+I'm+Deniz+G%C3%BCvel;Flutter+Developer+%7C+Mobile+App+Enthusiast;Welcome+to+my+GitHub!&color=F7C2E0&center=true" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Hi+I'm+Deniz+G%C3%BCvel;Software+Developer+%7C+;Welcome+to+my+GitHub!&color=F7C2E0&center=true" alt="Typing SVG" />
   </a>
 </p>
 
@@ -33,7 +33,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=denizguvel&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=denizguvel&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
