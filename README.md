@@ -1,7 +1,7 @@
 <!-- Profil Başlık Animasyonu -->
 <p align="center">
   <a href="https://github.com/denizguvel">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Hi+I'm+Deniz+G%C3%BCvel;Software+Developer+%7C+;Welcome+to+my+GitHub!&color=F7C2E0&center=true" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=22&duration=4000&pause=1000&center=true&vCenter=true&width=600&lines=Hello,+I'm+Deniz+Güvel.;Flutter+Developer+%7C+Elegance+in+Code.;Modern+UIs,+Clean+Architecture.;Welcome+to+my+GitHub+Estate." alt="Typing SVG" />
   </a>
 </p>
 
@@ -9,10 +9,11 @@
 
 ### 👨‍💻 About Me
 
-🎓 Environmental Engineering background, passionate about technology  
-📱 Flutter Developer focused on **clean architecture**, **Provider**, and modern UI  
-🚀 Building a Eurovision-themed mobile app with search, video, favorite, and Top 10 features  
-💬 I enjoy meaningful projects, clean code, and beautiful UI/UX
+Educated as an **Environmental Engineer**, evolved into a **Software Developer**.  
+I believe in clean code, meaningful design, and digital experiences that feel timeless.  
+
+My work is guided by clarity, function, and a hint of elegance.  
+Currently designing a Eurovision-themed mobile app with refined UI, state management, and a smooth user journey.
 
 ---
 
@@ -32,11 +33,15 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=denizguvel&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=denizguvel&show_icons=true&hide=prs&count_private=true&theme=calm&border_radius=15&hide_border=false&rank_icon=percentile" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=denizguvel&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=denizguvel&theme=calm&hide_border=false&border_radius=15" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=denizguvel&layout=compact&theme=calm&hide_border=false&border_radius=15" alt="Top Languages" />
 </p>
 
 ---
