@@ -31,11 +31,9 @@ Currently designing a Eurovision-themed mobile app with refined UI, state manage
 
 ### 🚀 Current Project
 
-<p align="center">
-  <a href="https://github.com/denizguvel/dEurovisionApp" target="_blank" height="100">
-    <img src="img/eu_logo4.jpg" />
-  </a>
-
+<table>
+  <tr>
+    <td>
 
 🎶 A stylish and interactive Eurovision mobile app built with Flutter  
 ✨ Features:
@@ -45,8 +43,15 @@ Currently designing a Eurovision-themed mobile app with refined UI, state manage
 - 🚀 Onboarding using showcaseview  
 - 🌗 Light/Dark theme toggle with Provider
 
-👉 [View the Project on GitHub](https://github.com/denizguvel/dEurovisionApp)
-</p>
+👉 <a href="https://github.com/denizguvel/dEurovisionApp">View the Project on GitHub</a>
+
+</td>
+    <td>
+      <img src="img/eu_logo4.jpg" alt="dEurovisionApp Logo" width="180" />
+    </td>
+  </tr>
+</table>
+
 ---
 
 ### 📊 GitHub Stats
