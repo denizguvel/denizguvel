@@ -1,7 +1,7 @@
 <!-- Profil Başlık Animasyonu -->
 <p align="center">
   <a href="https://github.com/denizguvel">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=22&duration=4000&pause=1000&center=true&vCenter=true&width=600&lines=Hello,+I'm+Deniz+Güvel.;Flutter+Developer+%7C+Elegance+in+Code.;Modern+UIs,+Clean+Architecture.;Welcome+to+my+GitHub+Estate." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=22&duration=4000&pause=1000&center=true&vCenter=true&width=600&lines=Hello,+I'm+Deniz+Güvel.;Flutter+Developer+%7C+Elegance+in+Code.;Modern+UIs,+Clean+Architecture.;Welcome+to+my+GitHub+Estate." alt="Typing SVG" />
   </a>
 </p>
 
