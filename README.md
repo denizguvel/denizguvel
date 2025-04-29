@@ -32,12 +32,7 @@ Currently designing a Eurovision-themed mobile app with refined UI, state manage
 ### 🚀 Current Project
 
 <p align="center">
-  <!-- Proje logosunu buraya ekleyebilirsin -->
-  <img src="img/eu_logo4.jpg" alt="dEurovisionApp Logo" height="100" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/denizguvel/dEurovisionApp" target="_blank">
+  <a href="https://github.com/denizguvel/dEurovisionApp" target="_blank" height="100">
     <img src="img/eu_logo4.jpg" />
   </a>
 </p>
