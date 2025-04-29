@@ -32,23 +32,26 @@ Currently designing a Eurovision-themed mobile app with refined UI, state manage
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=denizguvel&show_icons=true&hide=prs&count_private=true&theme=calm&border_radius=15&hide_border=false&rank_icon=percentile" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=denizguvel&theme=calm&hide_border=false&border_radius=15" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=denizguvel&layout=compact&theme=calm&hide_border=false&border_radius=15" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=denizguvel&show_icons=true&count_private=true&theme=calm&border_radius=12&hide_border=false" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=denizguvel&layout=compact&theme=calm&border_radius=12&hide_border=false" height="150"/>
 </p>
 
 ---
 
 ### 📫 Contact
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/denizguvel)
-- 📬 [Email](mailto:deniz.guvel@example.com)
+<p align="center">
+  <a href="mailto:deniz.guvel@example.com">
+    <img src="https://img.shields.io/badge/-Email-000000?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/denizguvel" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/denizguvel" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
 
 ---
 
